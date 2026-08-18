@@ -12,10 +12,10 @@
 ### **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
 Olá !
-Me chamo Lukas Kayo de Araujo, tenho 20 anos e moro em São Paulo, sou apaixonado por técnologia desde que me entendo por gente. Gosto de estudar dados, back-end e cybersegurança principalmente pericia computacional. Vamos nos conectar !
+Me chamo Lukas Kayo de Araujo, tenho 20 anos e moro em São Paulo, sou apaixonado por técnologia desde que me entendo por gente. Gosto de estudar análise e ciência de dados, back-end e cybersegurança principalmente pericia computacional. Vamos nos conectar !
 
 <p align="left">
-    <a href="www.linkedin.com/in/lukas-kayo">
+    <a href="https://www.linkedin.com/in/lukas-kayo/">
         <img 
             alt="LinkedIn" 
             title="LinkedIn" 
